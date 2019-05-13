@@ -1,3 +1,3 @@
-(google)[https://www.google.com/]
+[google](https://www.google.com/)
 
-(GitHub)[https://github.com/]
+[GitHub](https://github.com/)
